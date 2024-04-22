@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './Card.css';
 
-
 const Cardplaner = ({name,hour,key,onDelete}) => {
 
     const [hourValue,setHourValue]=useState(parseInt(hour,10));
