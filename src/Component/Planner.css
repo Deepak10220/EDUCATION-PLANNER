@@ -1,0 +1,13 @@
+input{
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 8px 20px;
+}
+.input-container button{
+    background-color: black;
+    color: white;
+    padding: 8px 19px;
+    border-radius: 10px;
+    cursor: pointer;
+}

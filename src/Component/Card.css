@@ -1,0 +1,22 @@
+button{
+    font-size: 15px;
+    cursor: pointer;
+    padding: 5px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    font-weight: bolder;
+    background-color: rgb(25, 51, 109);
+    color: white;
+}
+.cardContainer{
+    border-radius: 20px;
+    background-color: rgb(202, 194, 194);
+    border: 2px solid black;
+    margin: 20px;
+}
+.insidecard{
+    justify-content: space-between;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
